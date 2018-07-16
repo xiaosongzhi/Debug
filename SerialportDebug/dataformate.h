@@ -1,0 +1,8 @@
+#ifndef DATAFORMATE_H
+#define DATAFORMATE_H
+
+#define PACKAGEHEAD 0XAA
+#define PACKAGETAIL 0XBB
+
+
+#endif // DATAFORMATE_H
